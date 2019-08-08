@@ -1,1 +1,2 @@
-# Python_Tutorial_10
+# Python_Tutoital_7
+Пример работы со списками в Python и GUI в PyQt
