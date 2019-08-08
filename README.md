@@ -1,2 +1,2 @@
-# Python_Tutoital_7
-Пример работы со списками в Python и GUI в PyQt
+# Python_Tutoital_10
+Пример работы с numpy матрицами в Python и GUI в PyQt
